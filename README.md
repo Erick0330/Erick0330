@@ -1,6 +1,6 @@
 ## Hi there, I'm Abdiel 👋
 
-<img src="[C:\Users\Dell\Pictures\Screenshots\Captura de pantalla (37).png](https://console.cloudinary.com/pm/c-7727bc0b4d08485a9832978d095288/media-explorer?assetId=03675362ee1fc01ae554d632dfd70a81)">
+<img src="https://console.cloudinary.com/pm/c-7727bc0b4d08485a9832978d095288/media-explorer?assetId=03675362ee1fc01ae554d632dfd70a81">
 
 - 🌱 I’m currently learning Vue.js y Node.js
 - 👯 I’m looking to collaborate on web projects
