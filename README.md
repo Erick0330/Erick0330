@@ -14,10 +14,6 @@
 - 💼 I gained work experience doing a management consulting project for digital transformation for the Cuban company ETECSA
 - 🌱 I am currently learning **Vue.js and Node.js**
 
-## 🌐 Contáctame:
-<a href="mailto:abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
-<a href="https://t.me/GodKiller_Gray030730" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
-<a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="50" width="50" /></a>
 
 ## 💻 Tecnologías:
 | Tipos | Tecnologías |
@@ -27,8 +23,7 @@
 | Package Manager | ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Pypi](https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)|
 | IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=red) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)|
 
-## 📊 Estadísticas de Github:
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=EduardoProfe666&theme=tokyonight&hide_border=false"/></p>
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EduardoProfe666&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
-<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoProfe666&theme=tokyonight" /></p>
+## 🌐 Contáctame:
+<a href="mailto:abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
+<a href="https://t.me/GodKiller_Gray030730" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="50" width="50" /></a>
