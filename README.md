@@ -5,8 +5,8 @@
 </div>
 
 <h3>
-- 🌱 I’m currently learning Vue.js y Node.js
-- 👯 I’m looking to collaborate on web projects
+- 🌱 I’m currently learning Vue.js y Node.js<br>
+- 👯 I’m looking to collaborate on web projects<br>
 - 📫 How to reach me:<br>
   .LinkedIn: (2) Abdiel Rodríguez Lara | LinkedIn<br>
   .Gmail: abdielrl0330@gmail.com
