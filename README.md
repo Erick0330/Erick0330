@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Roboto&weight=900&duration=2500&pause=1000&color=e21b1b&center=true&vCenter=true&width=500&lines=Software+Engeneer+student%F0%9F%94%A5" /></a>
 
   
-<img src="https://i.imgur.com/weNbhGZ.png">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/oTOFCMS" data-context="false" ><a href="//imgur.com/a/oTOFCMS"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 </div>
 
 ## 👾 Sobre Mí:
