@@ -11,8 +11,8 @@
 - 💬 I present knowledge and experience in the development of projects in Java, SpringBoot, C/C++, HTML/CSS/JS, Angular
 - 🔭 I love developing web applications
 - 🤝 I love participating in projects to learn and increase knowledge
-- 💼 Gané experiencia laboral realizando un proyecto de consultoria en gestion para la transformacion digital para la empresa cubana ETECSA
-- 🌱 Actualmente estoy aprendiendo **Vue.js y Node.js**
+- 💼 I gained work experience doing a management consulting project for digital transformation for the Cuban company ETECSA
+- 🌱 I am currently learning **Vue.js and Node.js**
 
 <!--
 **Erick0330/Erick0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
