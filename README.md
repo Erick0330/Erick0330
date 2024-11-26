@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Vue.js y Node.js
 - 👯 I’m looking to collaborate on web projects
-- 📫 How to reach me:
+- 📫 How to reach me:<br>
   .(2) Abdiel Rodríguez Lara | LinkedIn<br>
   .abdielrl0330@gmail.com
 <!--
