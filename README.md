@@ -24,6 +24,7 @@
 | IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=red) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)|
 
 ## 🌐 Contáctame:
+<a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="50" width="50" /></a>
 <a href="mailto:abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
 <a href="https://t.me/GodKiller_Gray030730" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
-<a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="50" width="50" /></a>
+
