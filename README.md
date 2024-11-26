@@ -14,6 +14,11 @@
 - 💼 I gained work experience doing a management consulting project for digital transformation for the Cuban company ETECSA
 - 🌱 I am currently learning **Vue.js and Node.js**
 
+## 🌐 Contáctame:
+<a href="abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
+<a href="@GodKiller_Gray030730" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
+<a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="45" width="45" /></a>
+
 <!--
 **Erick0330/Erick0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
