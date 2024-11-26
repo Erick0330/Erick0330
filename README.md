@@ -6,11 +6,14 @@
 <img width="70%" src="https://th.bing.com/th/id/R.ad16e4050037eccb21259c0d8a62639f?rik=Np5AA66TlSBoxg&pid=ImgRaw&r=0">
 </div>
 
-<h3>
-- 🌱 I’m currently learning Vue.js y Node.js<br>
-- 👯 I’m looking to collaborate on web projects<br>
+## 👾 Sobre Mí:
+- 🤓 3rd year study of software engineering at the Technological University of Havana "José Antonio Hecheverría" Cujae 💚
+- 💬 I present knowledge and experience in the development of projects in Java, SpringBoot, C/C++, HTML/CSS/JS, Angular
+- 🔭 I love developing web applications
+- 🤝 I love participating in projects to learn and increase knowledge
+- 💼 Gané experiencia laboral realizando un proyecto de consultoria en gestion para la transformacion digital para la empresa cubana ETECSA
+- 🌱 Actualmente estoy aprendiendo **Vue.js y Node.js**
 
-</h3>
 <!--
 **Erick0330/Erick0330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
