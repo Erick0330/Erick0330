@@ -9,7 +9,7 @@
 ## 👾 About me:
 - 🤓 3rd year study of software engineering at the  "Ciudad Universitaria José Antonio Hecheverría" Cujae 💚
 - 💬 I present knowledge and experience in the development of projects in Java, SpringBoot, C/C++, HTML/CSS/JS, Angular
-- 🔭 I love developing web applications
+- 🔭 I love developing web applications 
 - 🤝 I love participating in projects to learn and increase knowledge
 - 💼 I gained work experience doing a management consulting project for digital transformation for the Cuban company ETECSA
 - 🌱 I am currently learning **Vue.js and Node.js**
