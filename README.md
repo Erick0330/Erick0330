@@ -31,7 +31,7 @@
 
 ## 🔝 Mejores Repositorios:
 <div align="center">
-  <a href="https://github.com/Erick0330/RefugioVSC.git"><img width="46%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight"/></a>
+  <a href="https://github.com/Erick0330/RefugioVSC.git"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight"/></a>
   <a href="https://github.com/Erick0330/iMessageSimulator.git"><img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=iMessageSimulator&theme=tokyonight"/></a>
 
 <div>
