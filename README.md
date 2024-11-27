@@ -28,3 +28,8 @@
 <a href="mailto:abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
 <a href="https://t.me/GodKiller_Gray030730" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-2.png" alt="eduardoprof666" height="45" width="45" /></a>
 
+## 📊 Estadísticas de Github:
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick0330&theme=tokyonight&hide_border=false"/></p>
+<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick0330&theme=tokyonight" /></p>
