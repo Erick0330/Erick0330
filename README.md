@@ -29,6 +29,11 @@
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 <p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick0330&theme=tokyonight" /></p>
 
+## 🔝 Mejores Repositorios:
+<div align="center">
+  <a href="https://github.com/Erick0330/RefugioVSC.git"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight"/></a>
+<div>
+
 ## 🌐 Contact me:
 <a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="eduardoprof666" height="50" width="50" /></a>
 <a href="mailto:abdielrl0330@gmail.com" target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" height="28" width="35" /></a>
