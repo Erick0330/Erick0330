@@ -26,7 +26,7 @@
 ## 📊 Estadísticas de Github:
 <p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick0330&theme=tokyonight&hide_border=false"/></p>
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
+<p align="left"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 <p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick0330&theme=tokyonight" /></p>
 
 ## 🔝 Mejores Repositorios:
