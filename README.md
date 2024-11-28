@@ -34,7 +34,7 @@
   <a href="https://github.com/Erick0330/RefugioVSC.git"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight"/></a>
   <a href="https://github.com/Erick0330/iMessageSimulator.git"><img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=iMessageSimulator&theme=tokyonight"/></a>
 <div>
-<div >
+<div align="left">
   <a href="https://github.com/Erick0330/TETR4DIG.git"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=TETR4DIG&theme=tokyonight"/></a>
  
 <div>
