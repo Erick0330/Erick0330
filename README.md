@@ -36,8 +36,7 @@
 <div>
   
 <div align="center">
-  <a href="https://github.com/Erick0330/backend-gestion-clientes.git"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=backend-gestion-clientes
-&theme=tokyonight"/></a>
+  <a href="https://github.com/Erick0330/backend-gestion-clientes.git"><img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=backend-gestion-clientes&theme=tokyonight"/></a>
   <a href="https://github.com/Erick0330/front-gestion-clientes.git"><img width="53%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=front-gestion-clientes&theme=tokyonight"/></a>
 <div>
   
