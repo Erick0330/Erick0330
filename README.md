@@ -24,7 +24,7 @@
 | IDE | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=red) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)|
 
 ## 📊 Estadísticas de Github:
-<p align="center"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
+<p align="left"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick0330&theme=tokyonight&hide_border=false"/></p>
 <p align="left"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/></p>
 <p align="center"><img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Erick0330&theme=tokyonight" /></p>
