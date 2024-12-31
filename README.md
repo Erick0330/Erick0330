@@ -42,7 +42,7 @@
   
 <div align="left">
    <a href="https://github.com/Erick0330/RefugioVSC.git"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight"/></a>
-  <a href="https://github.com/Erick0330/tic-tac-toe.git"><img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=tic-tac-toe&theme=tokyonight"/></a>
+   <a href="https://github.com/Erick0330/tic-tac-toe.git"><img width="48%" heigth="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=tic-tac-toe&theme=tokyonight"/></a>
 <div>
 
 ## 🌐 Contact me:
