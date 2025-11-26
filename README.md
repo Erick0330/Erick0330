@@ -16,7 +16,7 @@
 ## 💼 Professional Experience:
 
 ### 🎯 Web Accessibility Auditor/Tester - AltySolutions
-*(Jan 2025 - Present)*
+*(Jan 2025 - Nov 2025)*
 - Performed functional testing for high-visibility platforms including BillShark.com
 - Led accessibility evaluation projects for Crownpeak enterprise clients
 - Identified and documented WCAG 2.2 compliance issues across multiple websites
@@ -97,14 +97,12 @@
 [![Federated Learning Research](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=test_FL&theme=tokyonight)](https://github.com/AdrianRodriguezJorge/test_FL.git)
 *Comparative analysis between federated and traditional learning across 10 UCI datasets*
 
-### 🚀 Enterprise Projects
 [![TETR4DIG - ETECSA](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=TETR4DIG&theme=tokyonight)](https://github.com/Erick0330/TETR4DIG.git)
 *Digital transformation consulting application for ETECSA*
 
 [![Smart Charger System](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=Cargando&theme=tokyonight)](https://github.com/Erick0330/Cargando.git)
 *Intelligent charging system with payment integration*
 
-### 💻 Full-Stack Applications
 [![Animal Shelter Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight)](https://github.com/Erick0330/RefugioVSC.git)
 *Complete shelter management system with role-based authentication*
 
