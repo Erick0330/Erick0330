@@ -103,7 +103,6 @@
 [![iMessage Simulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=iMessageSimulator&theme=tokyonight)](https://github.com/Erick0330/iMessageSimulator.git)
 *Email system simulation with Circular Queue implementation*
 
-### 🎮 Web Applications
 [![Tic-Tac-Toe Game](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=tic-tac-toe&theme=tokyonight)](https://github.com/Erick0330/tic-tac-toe.git)
 *Interactive web game with multiversal travel theme*
 
