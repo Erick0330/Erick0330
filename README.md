@@ -76,20 +76,100 @@
 
 ## 🔝 Featured Projects (AI & Engineering):
 
-[![Real-Time Drowsiness Detection](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=Real-Time-Drowsiness-Detection-System&theme=tokyonight)](https://github.com/Erick0330/Real-Time-Drowsiness-Detection-System)
-[cite_start]*Sistema de visión artificial con YOLO y OpenCV para detectar fatiga en conductores[cite: 135].*
+## 🔝 Featured Projects (AI & Engineering):
 
-[![LRP1 Scoring Algorithm](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=Score-algorithm&theme=tokyonight)](https://github.com/Erick0330/Score-algorithm)
-[cite_start]*Algoritmo bioinformático para evaluar interacciones de proteínas del virus del Dengue[cite: 37].*
-
-[![TETRDIG - ETECSA](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=TETRDIG&theme=tokyonight)](https://github.com/Erick0330/TETRDIG)
-[cite_start]*Aplicación para la consultoría de transformación digital en empresas (ETECSA).*
-
-[![Animal Shelter Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight)](https://github.com/Erick0330/RefugioVSC)
-[cite_start]*Sistema de gestión con autenticación por roles y reportes en PDF[cite: 162].*
-
-[![iMessage Simulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=iMessageSimulator&theme=tokyonight)](https://github.com/Erick0330/iMessageSimulator)
-[cite_start]*Simulador de sistema de correos usando estructuras de datos (Circular Queue) en C++[cite: 169].*
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">👁️ Real-Time Drowsiness Detection</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/Real-Time-Drowsiness-Detection-System">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Computer Vision system trained to detect driver fatigue and yawning in real-time. Features a state-based logic system to prevent false positives and an auditory alert mechanism.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧬 LRP1 Scoring Algorithm</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/Score-algorithm">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Quantitative bioinformatics algorithm to evaluate protein-protein interactions (Dengue Virus vs. LRP1). Includes a web-based analytical platform for data filtering.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bioinformatics-1CB698?style=flat-square" />
+        <img src="https://img.shields.io/badge/Algorithm-FF6F00?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏢 TET4RDIG (ETECSA)</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/TETR4DIG">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Digital transformation consulting application. Generates complex graphs and visualization tables to assess enterprise digital maturity levels.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Backend-000000?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐾 Animal Shelter Manager</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/RefugioVSC">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Comprehensive management system with role-based authentication. Automates CRUD operations for animals/staff and generates PDF reports.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JasperReports-E34F26?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">📨 iMessage Simulator</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/iMessageSimulator">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Offline email system simulation implementing a Circular Queue data structure from scratch for efficient message management.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Data_Structures-5C5C5C?style=flat-square" />
+        <img src="https://img.shields.io/badge/System_Design-1CB698?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🎮 Multiversal Tic-Tac-Toe</h3>
+      <p align="center">
+        <a href="https://github.com/Erick0330/tic-tac-toe">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>Web-based game featuring a "multiversal travel" theme that alters the UI/UX assets upon winning. Includes secret modes and stats tracking.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Game_Dev-9521F5?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ## 🌐 Connect With Me:
 <a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="abdiel-rodriguez" height="50" width="50" /></a>
