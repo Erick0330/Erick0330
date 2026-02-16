@@ -76,8 +76,6 @@
 
 ## 🔝 Featured Projects (AI & Engineering):
 
-## 🔝 Featured Projects (AI & Engineering):
-
 <table>
   <tr>
     <td width="50%">
