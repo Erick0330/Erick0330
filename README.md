@@ -67,37 +67,29 @@
 
 ## 📊 GitHub Statistics:
 <p align="left">
-
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true"/>
-
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Erick0330&theme=tokyonight&hide_border=false"/>
-
 </p>
-
 <p align="left">
-
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Erick0330&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Erick0330&theme=tokyonight"/>
-
 </p>
 
 ## 🔝 Featured Projects (AI & Engineering):
 
 [![Real-Time Drowsiness Detection](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=Real-Time-Drowsiness-Detection-System&theme=tokyonight)](https://github.com/Erick0330/Real-Time-Drowsiness-Detection-System)
-*Computer Vision system using YOLO (Ultralytics) and OpenCV to detect driver fatigue.*
+[cite_start]*Sistema de visión artificial con YOLO y OpenCV para detectar fatiga en conductores[cite: 135].*
 
 [![LRP1 Scoring Algorithm](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=Score-algorithm&theme=tokyonight)](https://github.com/Erick0330/Score-algorithm)
-*Quantitative scoring algorithm for evaluating protein-protein interactions (Bioinformatics).*
+[cite_start]*Algoritmo bioinformático para evaluar interacciones de proteínas del virus del Dengue[cite: 37].*
 
-[![LRP1 Web App](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=data_base_lrp1_web_app&theme=tokyonight)](https://github.com/Erick0330/data_base_lrp1_web_app)
-*Web platform integrating the custom biological scoring engine.*
+[![TETRDIG - ETECSA](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=TETRDIG&theme=tokyonight)](https://github.com/Erick0330/TETRDIG)
+[cite_start]*Aplicación para la consultoría de transformación digital en empresas (ETECSA).*
 
-[![Animal Shelter Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight)](https://github.com/Erick0330/RefugioVSC.git)
-*Robust Java/PostgreSQL architecture with role-based auth and PDF reporting.*
+[![Animal Shelter Management](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=RefugioVSC&theme=tokyonight)](https://github.com/Erick0330/RefugioVSC)
+[cite_start]*Sistema de gestión con autenticación por roles y reportes en PDF[cite: 162].*
 
-[![GPS Monitor Backend](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Nelsonma98&repo=SmartCharger-back&theme=tokyonight)](https://github.com/Nelsonma98/SmartCharger-back.git)
-*Contribution to Smart Charger backend infrastructure (NestJS).*
+[![iMessage Simulator](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Erick0330&repo=iMessageSimulator&theme=tokyonight)](https://github.com/Erick0330/iMessageSimulator)
+[cite_start]*Simulador de sistema de correos usando estructuras de datos (Circular Queue) en C++[cite: 169].*
 
 ## 🌐 Connect With Me:
 <a href="https://www.linkedin.com/in/abdiel-rodr%C3%ADguez-lara/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="abdiel-rodriguez" height="50" width="50" /></a>
